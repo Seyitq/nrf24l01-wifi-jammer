@@ -3,12 +3,12 @@
 
 <p align="center">Some of the specifications of these modules are as follows:
 
-Power consumption when sending data is about 12 mA.
-Range, if used outdoors with antenna, can reach up to 1000 meters
-Each module can communicate with up to 6 other modules.
-Use the 2.4 GHz band.
-You can send 1 to 25 bytes of raw data at a speed of 1 MB.
-Interference in the 2.4 GHz network band
+- Power consumption when sending data is about 12 mA.
+- Range, if used outdoors with antenna, can reach up to 1000 meters
+- Each module can communicate with up to 6 other modules.
+- Use the 2.4 GHz band.
+- You can send 1 to 25 bytes of raw data at a speed of 1 MB.
+- Interference in the 2.4 GHz network band
 There are many devices that operate in the 2.4GHz range, such as; Telephone, Bluetooth, WiFi, car alarm, microwave are all in this range that with this project we will be able to measure and display these values. It is not usually very difficult to find interference. Products are coming to market that act as spectrum analyzers and use a standard USB interface to a laptop, meaning that the interference source can be easily used with an antenna to find interference.</p>
 
 Project working method
